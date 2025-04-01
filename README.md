@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dulan Sachintha</h1>
-<h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulan71&label=Profile%20views&color=0e75b6&style=flat" alt="dulan71" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dulan71&label=Profile%20views&color=0e75b6&style=flat" alt="dulan71" />
+</p>
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning MERN stack development.  
+- 🎯 Aspiring Frontend Developer | Passionate about building interactive and user-friendly web applications.  
+- 🚀 Seeking a Frontend Developer Internship to apply my skills and grow as a developer.  
 
-- 📫 How to reach me **dulansachintha71x@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
