@@ -25,7 +25,7 @@
 #### 💻 Computer Parts Selling Web App – MERN Stack
 - Full-stack e-commerce site developed from scratch  
 - Includes user authentication, product management, shopping cart, and order tracking  
-- GitHub Repo 👉 [Click Here](https://github.com/dulan71) (add project-specific repo link here)
+- GitHub Repo 👉 [Click Here](https://github.com/dulan71) (https://github.com/dulan71?tab=repositories)
 
 ---
 
